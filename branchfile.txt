@@ -1,2 +1,1 @@
-This is my branch file
-Adding content from local repository 
+This is my branch file.
